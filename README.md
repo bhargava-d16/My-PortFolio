@@ -2,7 +2,7 @@
 
 Personal portfolio website built with Gatsby.
 
-## 🛠 Installation & Set Up
+## Installation & Set Up
 
 1. Install the Gatsby CLI
 
@@ -21,7 +21,7 @@ Personal portfolio website built with Gatsby.
    npm start
    ```
 
-## 🚀 Building and Running for Production
+## Building and Running for Production
 
 1. Generate a static production build
 
